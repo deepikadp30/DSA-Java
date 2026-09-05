@@ -1,5 +1,3 @@
-# DSA-Java
-Daily Data Structures and Algorithms practice in Java.
 
 # DSA-Java
 
